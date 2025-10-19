@@ -1,6 +1,4 @@
-# E-commerce Product Listing Page
-
-A modern, responsive e-commerce product listing page built with React. It fetches product data from a Supabase backend and allows users to filter and paginate through the products.
+# Inventory Management
 
 ## 🚀 Getting Started
 
